@@ -1,0 +1,8 @@
+Tratativa para o problema de brilho do ubuntu 
+
+Abra um terminal (use as teclas CTRL + ALT + T);
+sudo add-apt-repository ppa:apandada1/brightness-controller
+sudo apt-get update
+sudo apt-get install brightness-controller
+
+Quando quiser iniciar o programa, brightness-controller em um terminal em seguida aperte enter
